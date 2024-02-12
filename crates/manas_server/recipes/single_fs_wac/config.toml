@@ -1,0 +1,10 @@
+dev_mode = true
+[storage.space]
+root_uri = "http://localhost:3001/"
+owner_id = "https://argahsuknesib.github.io/me/"
+[storage.repo]
+databrowser_enabled = true
+[storage.repo.backend]
+root = "/home/kush/Code/Manas/data/"
+[server]
+addr = "127.0.0.1:3001"
